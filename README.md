@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/github/followers/Orizin">
+
 # Hi there I'm Orizin
 
 
@@ -6,4 +8,4 @@ CERT
 보안관제
 
 
-https://img.shields.io/github/followers/Orizin
+
